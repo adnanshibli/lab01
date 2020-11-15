@@ -1,0 +1,41 @@
+
+@media screen and (min-width:1200px)
+{
+    body {
+        width: 1200px;
+        margin: 50px auto;
+        padding: 0px;
+    }
+
+
+
+
+    #a {
+background: #444444;
+        color: wheat;
+    }
+
+    #b{
+        background: #444444;
+        color: black;
+    }
+
+    #d,#c{
+background: #444444;
+    }
+
+    .contchild{
+
+        background: #444444;
+        
+        background-size: cover;
+        
+    }
+
+    #i{
+   
+background: #444444;
+        
+    }
+
+}
